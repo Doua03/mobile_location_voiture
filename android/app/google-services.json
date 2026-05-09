@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "312283628851",
+    "project_id": "ornate-axiom-416310",
+    "storage_bucket": "ornate-axiom-416310.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312283628851:android:a8173eaf1bd39638d62a46",
+        "android_client_info": {
+          "package_name": "com.example.gestionvehicule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312283628851-b1pjpub6efbienn5qfadrb1q89jn3fd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSFWljJ8ySTPhn_uLHJOJjCjB4U4ROkeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312283628851-b1pjpub6efbienn5qfadrb1q89jn3fd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312283628851-87fokdk4ds7ku6ver83juiq03o962get.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gestionvehicule"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312283628851:android:962fdc85a6a363ead62a46",
+        "android_client_info": {
+          "package_name": "gestion.vehicule.web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312283628851-b1pjpub6efbienn5qfadrb1q89jn3fd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSFWljJ8ySTPhn_uLHJOJjCjB4U4ROkeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312283628851-b1pjpub6efbienn5qfadrb1q89jn3fd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312283628851-87fokdk4ds7ku6ver83juiq03o962get.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gestionvehicule"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
